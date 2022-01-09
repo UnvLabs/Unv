@@ -18,7 +18,6 @@
   ·
   <a href="https://github.com/UnvLabs/Unv/issues/new?assignees=&labels=feature&template=feature_request.yml">Request feature</a>
   ·
-  ·
   <a href="https://unvlang.netlify.app/blog/">Blog</a>
 </p>
 
@@ -43,4 +42,11 @@ if  5  >  2
     print("Five is greater than two!")
 ```
 ## Community
+
 Stay up to date on the development of Unv and reach out to the community with these helpful resources.
+
+- Read and subscribe to [The Official Unv Blog](https://unvlang.netlify.app/blog/).
+- Join the official [Gitter chat room](https://gitter.im/unvlang/community?utm_source=share-link&utm_medium=link&utm_campaign=share-link).
+Chat with fellow Bootstrappers in IRC. On the irc.libera.chat server, in the #bootstrap channel.
+- Implementation help may be found at Stack Overflow (tagged [unv](https://stackoverflow.com/questions/tagged/unv)).
+
