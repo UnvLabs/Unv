@@ -47,6 +47,3 @@ Check [the documentation website][website].
 
 If you're interested in contributing to [Unv], please read our [contributing docs](https://github.com/UnvLabs/.github/blob/main/CONTRIBUTING.md) **before submitting a pull request**.
 
-## License ⚖️
-
-Distributed under the [MIT License](https://github.com/UnvLabs/Unv/blob/main/LICENSE).
