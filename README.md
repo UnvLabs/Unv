@@ -12,38 +12,32 @@
 
 ---
 
-[Unv]: https://unvlang.netlify.app
-[website]: https://unvlang.netlify.app
+## 🙋‍♀️ A short introduction
+We can't use one langauge for everything. Unv is a attempt to make a simple one for this purpose. With simple syntax similar to python , it can be used for any task.
 
-## Why Unv? 🤔
+**Here's a taste of UNV :**
 
-A quote from the author should illustrate his motivation to create [Unv]:
+```py
+import 'print' from 'standard'
 
-> I had learned many programming languages. This is my attempt to create a universal one for any platform. - [@ksengine](https://github.com/ksenginew)
+if 'Unv is awesome!'
+    print('Hello World!')
+```
 
-By depending on other programming lanuguages [Unv] made it universal. With symple syntax(even simpler than Python) [Unv] made programming painless.
 
-Read more about it in the [Introduction](https://unvlang.netlify.app).
+## 🌈 Contribution guidelines
+Unv is a volunteer effort. We encourage you to pitch in and join the [team](https://github.com/orgs/UnvLabs/people)!
+See our [guidelines](https://github.com/UnvLabs/.github/blob/main/CONTRIBUTING.md#readme) to start contributing.
+> Currently UNV is under development
 
-## Integrations
+## 👩‍💻 Useful resources
+- 🕸️ Visit our [**website**](https://unvlang.netlify.app/)
+- ⏯️ There is a [**playground**](https://unvlang.netlify.app/playground)
+- 📖 Comes with a [**tutorial**](https://unvlang.netlify.app/docs/tutorial/introduction)
+- 📰 With some articles on [**blog**](https://unvlang.netlify.app/blog)
+- 🤙 Or there is a [**chat on gitter**](https://gitter.im/unvlang/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
-Unv provides first-class integrations for your favorite tools, select yours and get started.
-<!--
-| Frameworks | Package | Version |
-| :-- | :-- | :-- |
--->
+## 🍿 Fun facts
+We are using coffee to think.
 
-## Documentation 📖
-
-Check [the documentation website][website].
-
-## Community 🧑‍🤝‍🧑
-
-- [Chat on Gitter](https://gitter.im/unvlang/community?utm_source=share-link&utm_medium=link&utm_campaign=share-link)
-- [GitHub Discussions](https://github.com/UnvLabs/Unv/discussions)
-- [Project board on Trello](https://trello.com/invite/b/sFcSDe7i/882919f7a6ccd50c3612c5b5798cda37/dev)
-
-## Contributing 🤝
-
-If you're interested in contributing to [Unv], please read our [contributing docs](https://github.com/UnvLabs/.github/blob/main/CONTRIBUTING.md) **before submitting a pull request**.
-
+<a href="https://www.buymeacoffee.com/ksengine" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
