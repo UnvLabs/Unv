@@ -1,52 +1,52 @@
 ↖️ Table of contents
 
-<p align="center">
-  <a href="#nolink">
-    <img src="https://unvlang.netlify.app/img/logo.svg" alt="Unv logo" width="200" height="165">
-  </a>
-</p>
-
-<h1 align="center">Unv Programming Language</h1>
-
+<h1 align="center">
+<a href="#nolink">
+  <img src="https://unvlang.netlify.app/img/logo.svg" alt="Unv Logo" height="200" width="200"/><br>
+</a>
+  Unv Programming Language
+</h1>
 <p align="center">
   Universal and human-friendly programming language from developers to developers.
-  <br>
-  <a href="https://unvlang.netlify.app/"><strong>Explore Unv docs »</strong></a>
-  <br>
-  <br>
-  <a href="https://github.com/UnvLabs/Unv/issues/new?assignees=-&labels=bug&template=bug_report.yml">Report bug</a>
-  ·
-  <a href="https://github.com/UnvLabs/Unv/issues/new?assignees=&labels=feature&template=feature_request.yml">Request feature</a>
-  ·
-  <a href="https://unvlang.netlify.app/blog/">Blog</a>
 </p>
 
 ---
 
-> A  **programming language**  is a  [formal language](https://en.wikipedia.org/wiki/Formal_language "Formal language")  comprising a set of  [strings](https://en.wikipedia.org/wiki/Formal_language#Words_over_an_alphabet "Formal language")  that produce various kinds of  [machine code output](https://en.wikipedia.org/wiki/Machine_code "Machine code"). Programming languages are one kind of  [computer language](https://en.wikipedia.org/wiki/Computer_language "Computer language"), and are used in  [computer programming](https://en.wikipedia.org/wiki/Computer_programming "Computer programming")  to implement  [algorithms](https://en.wikipedia.org/wiki/Algorithm "Algorithm").
-> 
-> _from Wikipedia_
+[Unv]: https://unvlang.netlify.app
+[website]: https://unvlang.netlify.app
 
-> A programming language = a syntax
-> 
-> _Kavindu Santhusa(creator of Unv)_
+## Why Unv? 🤔
 
-So I had defined the syntax. means I had created a programming language.
+A quote from the author should illustrate his motivation to create [Unv]:
 
-But without an implementation people can't use it. I had created my implementation with JavaScript, the most universal programming language. You can try it here on the [playground](https://unv.vercel.app/playground).
+> I had learned many programming languages. This is my attempt to create a universal one for any platform. - [@ksengine](https://github.com/ksenginew)
 
-```py
-if  5  >  2
-    print("Five is greater than two!")  
-if  5  >  2
-    print("Five is greater than two!")
-```
-## Community
+By depending on other programming lanuguages [Unv] made it universal. With symple syntax(even simpler than Python) [Unv] made programming painless.
 
-Stay up to date on the development of Unv and reach out to the community with these helpful resources.
+Read more about it in the [Introduction](https://unvlang.netlify.app).
 
-- Read and subscribe to [The Official Unv Blog](https://unvlang.netlify.app/blog/).
-- Join the official [Gitter chat room](https://gitter.im/unvlang/community?utm_source=share-link&utm_medium=link&utm_campaign=share-link).
-Chat with fellow Bootstrappers in IRC. On the irc.libera.chat server, in the #bootstrap channel.
-- Implementation help may be found at Stack Overflow (tagged [unv](https://stackoverflow.com/questions/tagged/unv)).
+## Integrations
 
+Unv provides first-class integrations for your favorite tools, select yours and get started.
+<!--
+| Frameworks | Package | Version |
+| :-- | :-- | :-- |
+-->
+
+## Documentation 📖
+
+Check [the documentation website][website].
+
+## Community 🧑‍🤝‍🧑
+
+- [Chat on Gitter](https://gitter.im/unvlang/community?utm_source=share-link&utm_medium=link&utm_campaign=share-link)
+- [GitHub Discussions](https://github.com/UnvLabs/Unv/discussions)
+- [Project board on Trello](https://trello.com/invite/b/sFcSDe7i/882919f7a6ccd50c3612c5b5798cda37/dev)
+
+## Contributing 🤝
+
+If you're interested in contributing to [Unv], please read our [contributing docs](https://github.com/UnvLabs/.github/blob/main/CONTRIBUTING.md) **before submitting a pull request**.
+
+## License ⚖️
+
+Distributed under the [MIT License](https://github.com/UnvLabs/Unv/blob/main/LICENSE).
