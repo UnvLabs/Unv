@@ -6,7 +6,7 @@
   </a>
 </p>
 
-<h3 align="center">Unv Programming Language</h3>
+<h1 align="center">Unv Programming Language</h1>
 
 <p align="center">
   Universal and human-friendly programming language from developers to developers.
@@ -42,3 +42,5 @@ if  5  >  2
 if  5  >  2
     print("Five is greater than two!")
 ```
+## Community
+Stay up to date on the development of Unv and reach out to the community with these helpful resources.
