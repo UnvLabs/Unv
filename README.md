@@ -1,4 +1,4 @@
-👆 Table of contents
+↖️ Table of contents
 
 <p align="center">
   <a href="#nolink">
