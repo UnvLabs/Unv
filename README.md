@@ -32,10 +32,11 @@ See our [guidelines](https://github.com/UnvLabs/.github/blob/main/CONTRIBUTING.m
 
 ## 👩‍💻 Useful resources
 - 🕸️ Visit our [**website**](https://unvlang.netlify.app/)
-- ⏯️ There is a [**playground**](https://unvlang.netlify.app/playground)
-- 📖 Comes with a [**tutorial**](https://unvlang.netlify.app/docs/tutorial/introduction)
-- 📰 With some articles on [**blog**](https://unvlang.netlify.app/blog)
-- 🤙 Or there is a [**chat on gitter**](https://gitter.im/unvlang/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
+- ⏯️ Play with Unv on the [**playground**](https://unvlang.netlify.app/playground)
+- 📖 For beginners there is a [**tutorial**](https://unvlang.netlify.app/docs/tutorial/introduction)
+- 📰 Read some articles on [**blog**](https://unvlang.netlify.app/blog)
+- 🤙 Join the [**chat on gitter**](https://gitter.im/unvlang/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
+- 🔲 See our roadmap on [**project board**](https://trello.com/invite/b/sFcSDe7i/882919f7a6ccd50c3612c5b5798cda37/dev)
 
 ## 🍿 Fun facts
 We are using coffee to think.
