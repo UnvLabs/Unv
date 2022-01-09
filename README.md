@@ -8,7 +8,7 @@ This is the language specification for the Unv programming language.
 **Here's a taste of UNV :**
 
 ```py
-import 'print' from 'standard'
+import print from 'standard'
 
 if 'Unv is awesome!'
     print('Hello World!')
